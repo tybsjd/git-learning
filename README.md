@@ -1,2 +1,2 @@
 # git-learning
-Auther : Tayyab Sajjad
+Author : Tayyab Sajjad
